@@ -11,7 +11,7 @@ define(['N/currency', 'N/email', 'N/record', 'N/transaction', 'N/ui/message'],
  * @param {transaction} transaction
  * @param {message} message
  */
-function(currency, email, record, transaction, message) {
+function TTChangeCurrency_Client(currency, email, record, transaction, message) {
     
     /**
      * Function to be executed after page is initialized.
